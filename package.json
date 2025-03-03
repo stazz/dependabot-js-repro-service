@@ -4,5 +4,8 @@
   "workspaces": [
     "libs/*",
     "libs/*/code/*"
-  ]
+  ],
+  "devDependencies": {
+    "@types/pg": "8.11.10"
+  }
 }
