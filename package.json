@@ -2,6 +2,7 @@
   "name": "dependabot-js-repro-service",
   "private": true,
   "workspaces": [
-    "libs/*"
+    "libs/*",
+    "libs/*/code/*"
   ]
 }
