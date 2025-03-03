@@ -1,0 +1,4 @@
+[submodule "libs/lib"]
+	path = libs/lib
+	url = https://github.com/stazz/dependabot-js-repro-lib.git
+	branch = main
